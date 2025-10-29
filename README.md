@@ -169,7 +169,7 @@ Place the following images in the /screenshots folder and reference them in docs
 
 ## **👥 Authors**
 
-	Punyatoya Mohanty
+Punyatoya Mohanty
 
 ---
 
