@@ -159,11 +159,11 @@ Place the following images in the /screenshots folder and reference them in docs
 * UI landing page with upload controls and examples dropdown (screenshots/ui-upload.png)
   ![Landing Page](screenshots/ui-upload.png)
 * Example query and generated answer with verification (screenshots/answer-verification.png)
-  ![Answer Verification](answer-verification.png)  
-* Verification report showing Supported / Unsupported Claims / Contradictions (screenshots/verification-report.png)
-  ![Verification_Report](verification-report.png) 
+  ![Answer Verification](screenshots/answer-verification.png)  
+* Verification report showing Unsupported Claims / Contradictions (screenshots/unrelated-doc.png)
+  ![Verification_Report](screenshots/unrelated-doc.png) 
 * Multi-document retrieval demo showing correct source selection (screenshots/multi-document.png)
-  ![Multi Document](multi-document.png)
+  ![Multi Document](screenshots/multi-document.png)
 
 ---
 
