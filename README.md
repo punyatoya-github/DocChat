@@ -36,7 +36,7 @@ DocChat is a multi-agent Retrieval-Augmented Generation (RAG) system that extrac
 
 1. Clone and checkout the release branch:
 
-   * git clone \--no-checkout https://github.com/HaileyTQuach/docchat-docling.git docchat  
+   * git clone \--no-checkout https://github.com/punyatoya-github/DocChat.git docchat  
    * cd docchat  
    * git checkout 2-final  
 2. Create and activate a Python 3.11 virtual environment:
@@ -59,7 +59,7 @@ Notes:
 1. Start the Gradio app:
 
    * python app.py  
-2. Open the UI at http://127.0.0.1:5000 (default). From the UI you can:
+2. Open the application. From the UI you can:
 
    * Upload one or more documents  
    * Enter natural-language questions about uploaded files  
@@ -95,12 +95,6 @@ Tips:
   * Monitor model inference times; large models may require timeouts, retries, or smaller alternatives
 
 ---
-
-## 
-
-## 
-
-## 
 
 ## **🗂️ Folder structure**
 
